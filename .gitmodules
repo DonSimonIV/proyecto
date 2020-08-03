@@ -1,0 +1,3 @@
+[submodule "stm32f103c8t6"]
+	path = stm32f103c8t6
+	url = git://github.com/ve3wwg/stm32f103c8t6
